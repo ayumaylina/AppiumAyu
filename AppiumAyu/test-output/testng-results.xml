@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-25T00:35:01 ICT" name="Default suite" finished-at="2022-09-25T00:35:32 ICT" duration-ms="31264">
+    <groups>
+    </groups>
+    <test started-at="2022-09-25T00:35:01 ICT" name="Default test" finished-at="2022-09-25T00:35:32 ICT" duration-ms="31264">
+      <class name="app.runner.TestEditToDoList">
+        <test-method is-config="true" signature="befTest()[pri:0, instance:app.runner.TestEditToDoList@3e8c3cb]" started-at="2022-09-25T00:35:01 ICT" name="befTest" finished-at="2022-09-25T00:35:17 ICT" duration-ms="15878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befTest -->
+        <test-method signature="testEdit()[pri:0, instance:app.runner.TestEditToDoList@3e8c3cb]" started-at="2022-09-25T00:35:17 ICT" name="testEdit" finished-at="2022-09-25T00:35:32 ICT" duration-ms="15300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEdit -->
+      </class> <!-- app.runner.TestEditToDoList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
